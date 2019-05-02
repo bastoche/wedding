@@ -1,15 +1,39 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Laure et Bastien se marient</title>
+    <title>Laure et Bastien se marient enfin on Laure &#43; Bastien</title>
     <link>https://laureetbastien.site/</link>
-    <description>Recent content on Laure et Bastien se marient</description>
+    <description>Recent content in Laure et Bastien se marient enfin on Laure &#43; Bastien</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr-fr</language>
-    <lastBuildDate>Tue, 23 Apr 2019 22:21:37 +0200</lastBuildDate>
+    <lastBuildDate>Thu, 02 May 2019 22:10:14 +0200</lastBuildDate>
     
 	<atom:link href="https://laureetbastien.site/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Fête</title>
+      <link>https://laureetbastien.site/posts/party/</link>
+      <pubDate>Thu, 02 May 2019 22:02:45 +0200</pubDate>
+      
+      <guid>https://laureetbastien.site/posts/party/</guid>
+      <description>Où ? La fête aura lieu à la Ferme de la Petite Loge, qui se situe à l&amp;rsquo;adresse suivante:
+Lieudit « La petite Loge » 77580 La Haute Maison
+View Larger Map
+Quand ? Le cocktail commencera à 18h.</description>
+    </item>
+    
+    <item>
+      <title>Cérémonie</title>
+      <link>https://laureetbastien.site/posts/ceremony/</link>
+      <pubDate>Thu, 02 May 2019 21:43:58 +0200</pubDate>
+      
+      <guid>https://laureetbastien.site/posts/ceremony/</guid>
+      <description>Où ? La cérémonie aura lieu à la mairie de Vaires-sur-Marne, qui se situe à l&amp;rsquo;adresse suivante:
+26 Boulevard de Lorraine 77360 Vaires-sur-Marne
+View Larger Map
+Quand ? La cérémonie commencera à 14h30.</description>
+    </item>
     
     <item>
       <title>Contact</title>
@@ -20,15 +44,6 @@
       <description>📧 laureetbastien@gmail.com
 📱Laure 06.63.38.25.86
 📱Bastien 06.62.02.18.07</description>
-    </item>
-    
-    <item>
-      <title>Site en construction</title>
-      <link>https://laureetbastien.site/posts/soon/</link>
-      <pubDate>Tue, 19 Mar 2019 22:07:27 +0100</pubDate>
-      
-      <guid>https://laureetbastien.site/posts/soon/</guid>
-      <description>Plus de détails bientôt!</description>
     </item>
     
   </channel>

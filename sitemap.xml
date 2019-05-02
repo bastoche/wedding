@@ -3,6 +3,21 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://laureetbastien.site/</loc>
+    <lastmod>2019-05-02T22:10:14+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://laureetbastien.site/posts/party/</loc>
+    <lastmod>2019-05-02T22:02:45+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://laureetbastien.site/posts/ceremony/</loc>
+    <lastmod>2019-05-02T21:43:58+02:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://laureetbastien.site/posts/</loc>
     <lastmod>2019-04-23T22:35:23+02:00</lastmod>
   </url>
@@ -10,17 +25,6 @@
   <url>
     <loc>https://laureetbastien.site/contact/</loc>
     <lastmod>2019-04-23T22:21:37+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://laureetbastien.site/</loc>
-    <lastmod>2019-04-23T22:21:37+02:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://laureetbastien.site/posts/soon/</loc>
-    <lastmod>2019-03-19T22:07:27+01:00</lastmod>
   </url>
   
   <url>
