@@ -5,4 +5,8 @@ menu:
   main: {}
 ---
 
-TODO: add a contact form
+📧 [laureetbastien@gmail.com](mailto:laureetbastien@gmail.com)
+
+📱Laure [06.63.38.25.86](tel:0663382586)
+
+📱Bastien [06.62.02.18.07](tel:0662021807)

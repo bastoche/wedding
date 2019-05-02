@@ -13,18 +13,18 @@
   </url>
   
   <url>
-    <loc>https://laureetbastien.site/posts/test/</loc>
+    <loc>https://laureetbastien.site/</loc>
+    <lastmod>2019-04-23T22:21:37+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://laureetbastien.site/posts/soon/</loc>
     <lastmod>2019-03-19T22:07:27+01:00</lastmod>
   </url>
   
   <url>
     <loc>https://laureetbastien.site/categories/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://laureetbastien.site/</loc>
-    <lastmod>2019-04-23T22:21:37+02:00</lastmod>
     <priority>0</priority>
   </url>
   
