@@ -11,7 +11,7 @@ La fête aura lieu à la [Ferme de la Petite Loge](http://fermedelapetiteloge.co
 
 _Lieudit « La petite Loge » 77580 La Haute Maison_
 
-<iframe width="425" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://www.openstreetmap.org/export/embed.html?bbox=2.9800415039062504%2C48.85443747869951%2C3.052139282226563%2C48.89767816912222&amp;layer=mapnik&amp;marker=48.87605989804333%2C3.016107799999986" style="border: 1px solid black"></iframe><br/><small><a href="https://www.openstreetmap.org/?mlat=48.8761&amp;mlon=3.0161#map=14/48.8761/3.0161">View Larger Map</a></small>
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2624.069034194686!2d3.014572315640701!3d48.87596050742359!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47e8bad971331c97%3A0xdfb94833a8eee437!2sFarm+Petite+Loge!5e0!3m2!1sen!2sfr!4v1557307142140!5m2!1sen!2sfr" width="800" height="600" frameborder="0" style="border:0" allowfullscreen></iframe>
 
 # Quand ?
 
