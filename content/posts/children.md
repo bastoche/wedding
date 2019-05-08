@@ -2,6 +2,7 @@
 title: "Les enfants"
 date: 2019-05-08T10:17:46+02:00
 featured_image: "/images/children.jpg"
+summary: "Des animatrices s'occuperont d'eux"
 ---
 
 # Les enfants sont les bienvenus

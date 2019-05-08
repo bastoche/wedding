@@ -2,6 +2,7 @@
 title: "La fête"
 date: 2019-05-02T22:02:45+02:00
 featured_image: "/images/petite_loge.jpg"
+summary: "Ferme de la Petite Loge, 18h"
 ---
 
 # Où ?
