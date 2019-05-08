@@ -1,5 +1,5 @@
 ---
-title: "Cérémonie"
+title: "La cérémonie"
 date: 2019-05-02T21:43:58+02:00
 ---
 
