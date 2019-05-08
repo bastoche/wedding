@@ -1,6 +1,7 @@
 ---
 title: "La cérémonie"
 date: 2019-05-02T21:43:58+02:00
+featured_image: "/images/town_hall.jpg"
 ---
 
 # Où ?

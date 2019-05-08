@@ -1,6 +1,7 @@
 ---
 title: "Les enfants"
 date: 2019-05-08T10:17:46+02:00
+featured_image: "/images/children.jpg"
 ---
 
 # Les enfants sont les bienvenus
