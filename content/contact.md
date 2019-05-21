@@ -1,6 +1,7 @@
 ---
-title: "Contact"
+title: "Nous contacter"
 date: 2019-04-23T22:21:37+02:00
+featured_image: "/images/wedding.jpg"
 menu:
   main: {}
 ---

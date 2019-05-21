@@ -1,5 +1,5 @@
 ---
-title: "Hébergement"
+title: "L'hébergement"
 date: 2019-05-19T18:34:30+02:00
 featured_image: "/images/room.jpg"
 summary: "Nous vous recommandons de dormir sur place"

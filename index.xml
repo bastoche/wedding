@@ -12,7 +12,16 @@
     
     
     <item>
-      <title>Hébergement</title>
+      <title>Confirmer votre présence</title>
+      <link>https://laureetbastien.site/answer/</link>
+      <pubDate>Tue, 21 May 2019 22:01:32 +0200</pubDate>
+      
+      <guid>https://laureetbastien.site/answer/</guid>
+      <description>Vous pouvez confirmer votre présence via ce formulaire, ou bien en nous contactant directement par téléphone.</description>
+    </item>
+    
+    <item>
+      <title>L&#39;hébergement</title>
       <link>https://laureetbastien.site/posts/stay/</link>
       <pubDate>Sun, 19 May 2019 18:34:30 +0200</pubDate>
       
@@ -57,7 +66,7 @@
     </item>
     
     <item>
-      <title>Contact</title>
+      <title>Nous contacter</title>
       <link>https://laureetbastien.site/contact/</link>
       <pubDate>Tue, 23 Apr 2019 22:21:37 +0200</pubDate>
       
